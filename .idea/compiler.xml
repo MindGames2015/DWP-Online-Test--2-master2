@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="DWP-Online-Test-#2" />
+        <module name="DWP-Online-Test--2-master2" />
+        <module name="DWP-Online-Test" />
         <module name="DWP-Online-Test--2-master" />
       </profile>
     </annotationProcessing>
